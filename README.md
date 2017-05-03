@@ -1,0 +1,1 @@
+# TUGAS-mengatur-grayscale-negatif-dan-brightness
